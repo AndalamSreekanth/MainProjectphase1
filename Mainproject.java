@@ -19,7 +19,7 @@ package mainproject;
 	    }
 
 	    private static final String WELCOME_PROMPT =
-	            "\n***   Mainproject.com ***";
+	            "\n***   Application name : lockedme ,developer details: developed by sreekanth ***";
 	                private static final String MAIN_MENU_PROMPT =
 	            "\nMAIN MENU - Select any of the following: \n"+
 	                    "1 -> List files in directory\n"+
